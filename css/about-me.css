@@ -1,0 +1,28 @@
+	
+	#btn{
+		margin-left: 25%;
+	}
+	
+	#about-me{
+		margin-top:5%;
+		text-align: center;
+	}
+	
+	 .text-left{  
+      margin-top:2%;
+       margin-right:10%;
+      margin-left: 10%;
+      font-size: 21px;
+
+  	}
+  	
+	  .progress{
+	   margin-top:2%;
+      margin-left: 10%;
+
+	  }
+
+	  @media all and (max-width:760px){
+	  	
+
+	  }
